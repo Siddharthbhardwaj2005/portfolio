@@ -1,0 +1,109 @@
+.detail{
+    margin-left: 1%;
+    margin-top: 10%
+}
+
+.detail h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.detail p{
+    line-height: 22px;
+}
+
+.detail a{
+    background: #0056b3;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: Bold;
+    color: #ffff;
+    display: inline-block;
+    margin: 30px;
+    border-radius: 5px;
+}
+
+.text{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin-top: 15%;
+    margin-left: 12%;
+    margin-right: 12%;
+    font-size:  30px;
+}
+.container p{
+    font-size: 30px;
+}
+.html {width: 80%; background-color: #04AA6D;} /* Green */
+.css {width: 70%; background-color: #2196F3;} /* Blue */
+.js {width: 70%; background-color: #b014be;} /* Red */
+.c {width: 90%; background-color: #f44336;} /* Red */
+.cpp{width: 85%; background-color: #148b93;}
+.py{width: 75%; background-color: #153ec7;}
+
+.pro1{
+    margin-left: 30%;
+    margin-right: 25%;
+    column-gap: 5px;
+}
+.webdev{
+    background: black;
+    padding: 10px 100px;
+    text-decoration: none;
+    font-weight: Bold;
+    color: #ffff;
+    display: inline-block;
+    margin: 30px;
+    border-radius: 5px;
+    }    
+.row
+{   
+    margin-top: 3%;
+    margin-left: 30%;
+    margin-right: 25%;
+    column-gap: 5px;
+}
+
+.calculator{
+    background: white;
+    padding: 10px 10px; 
+    text-decoration: none;
+    font-weight: bold;
+    color:black;
+    display:inline-block;
+    margin: 0px;
+    border-radius: 30px;
+}
+
+.calculator a{
+    color: blue;
+    text-decoration: underline;
+}
+.todo{
+    background: white;
+    padding: 10px 10px; 
+    text-decoration: none;
+    font-weight: bold;
+    color:black;
+    display:inline-block;
+    margin: 0px;
+    border-radius: 30px; 
+}
+.todo a{
+    color: blue;
+    text-decoration: underline;
+}
+.stopwatch{
+    margin-top: 20%;
+    background: white;
+    padding: 10px 10px; 
+    text-decoration: none;
+    font-weight: bold;
+    color:black;
+    display:inline-block;
+    margin: 0px;
+    border-radius: 30px; 
+}
+.stopwatch a{
+    color: blue;
+    text-decoration: underline;
+}

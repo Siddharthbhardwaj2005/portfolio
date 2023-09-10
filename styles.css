@@ -1,0 +1,41 @@
+.container {
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    height: 60px;
+    width: 60px;
+    background-color: #ffff;
+    border-radius: 30px;
+    text-align: center;
+    margin: 20px;
+    line-height: 70px;
+
+}
+
+a i {
+    transition: all 0.3s linear;
+}
+
+a:hover i {
+    transform: scale(1.5);
+}
+
+.instagram:hover {
+    color: #e11d74;
+}
+
+.github:hover {
+    color: black;
+}
+
+.linkedin:hover {
+    color: darkblue;
+}
+.prsndet{
+    margin-left: 35%;
+
+}
